@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Loginscreen\Loginscreen\bin\Debug\Loginscreen.exe.config
+C:\Users\Lenovo\Loginscreen\Loginscreen\bin\Debug\Loginscreen.exe
+C:\Users\Lenovo\Loginscreen\Loginscreen\bin\Debug\Loginscreen.pdb
+C:\Users\Lenovo\Loginscreen\Loginscreen\obj\Debug\Loginscreen.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Loginscreen\Loginscreen\obj\Debug\Loginscreen.Form1.resources
+C:\Users\Lenovo\Loginscreen\Loginscreen\obj\Debug\Loginscreen.Properties.Resources.resources
+C:\Users\Lenovo\Loginscreen\Loginscreen\obj\Debug\Loginscreen.csproj.GenerateResource.cache
+C:\Users\Lenovo\Loginscreen\Loginscreen\obj\Debug\Loginscreen.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Loginscreen\Loginscreen\obj\Debug\Loginscreen.exe
+C:\Users\Lenovo\Loginscreen\Loginscreen\obj\Debug\Loginscreen.pdb
