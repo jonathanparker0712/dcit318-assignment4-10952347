@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\addressBook\addressBook\bin\Debug\addressBook.exe.config
+C:\Users\Lenovo\source\repos\addressBook\addressBook\bin\Debug\addressBook.exe
+C:\Users\Lenovo\source\repos\addressBook\addressBook\bin\Debug\addressBook.pdb
+C:\Users\Lenovo\source\repos\addressBook\addressBook\obj\Debug\addressBook.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\addressBook\addressBook\obj\Debug\addressBook.Form1.resources
+C:\Users\Lenovo\source\repos\addressBook\addressBook\obj\Debug\addressBook.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\addressBook\addressBook\obj\Debug\addressBook.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\addressBook\addressBook\obj\Debug\addressBook.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\addressBook\addressBook\obj\Debug\addressBook.exe
+C:\Users\Lenovo\source\repos\addressBook\addressBook\obj\Debug\addressBook.pdb
