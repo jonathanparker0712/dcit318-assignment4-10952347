@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\DrawingApp\DrawingApp\bin\Debug\DrawingApp.exe.config
+C:\Users\Lenovo\source\repos\DrawingApp\DrawingApp\bin\Debug\DrawingApp.exe
+C:\Users\Lenovo\source\repos\DrawingApp\DrawingApp\bin\Debug\DrawingApp.pdb
+C:\Users\Lenovo\source\repos\DrawingApp\DrawingApp\obj\Debug\DrawingApp.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\DrawingApp\DrawingApp\obj\Debug\DrawingApp.Form1.resources
+C:\Users\Lenovo\source\repos\DrawingApp\DrawingApp\obj\Debug\DrawingApp.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\DrawingApp\DrawingApp\obj\Debug\DrawingApp.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\DrawingApp\DrawingApp\obj\Debug\DrawingApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\DrawingApp\DrawingApp\obj\Debug\DrawingApp.exe
+C:\Users\Lenovo\source\repos\DrawingApp\DrawingApp\obj\Debug\DrawingApp.pdb
